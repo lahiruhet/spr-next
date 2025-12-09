@@ -27,64 +27,64 @@ export default function InvestmentPage() {
             <ul className="space-y-3 text-sm text-gray-600 max-w-3xl mx-auto">
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Gemstones are <strong>small and easy to transport</strong> and concentrate their value in a very small
+                Gemstones are small and easy to transport and concentrate their value in a very small
                 volume.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                They are <strong>easy to pass on</strong>, for example to further generations.
+                They are easy to pass on, for example to further generations.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                They have been used to <strong>store wealth</strong> for over <strong>5000 years</strong>.
+                They have been used to store wealth for over 5000 years.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Worldwide <strong>scarcity of gemstones</strong> especially rubies and sapphires, but also diamonds are
+                Worldwide scarcity of gemstones especially rubies and sapphires, but also diamonds are
                 becoming exhausted.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Further source countries in Asia as well as Russia are now creating <strong>high demand</strong>.
+                Further source countries in Asia as well as Russia are now creating high demand.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                <strong>Auctions</strong> are noting record prices.
+                Auctions are noting record prices.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Naturally coloured gemstones have seen a <strong>constant, strong increase in value</strong> for over 40
+                Naturally coloured gemstones have seen a constant, strong increase in value for over 40
                 years and are considered to be "non-volatile", meaning they will hold their value.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Gemstones are traded <strong>internationally</strong>.
+                Gemstones are traded internationally.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
                 Gemstones from SPR Gems are only sold along with an{" "}
-                <strong>internationally recognized, independent certificate from a gemological institute.</strong>
+                internationally recognized, independent certificate from a gemological institute.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Gemstones are the most <strong>emotional way</strong> of storing wealth: nothing else of such high value
+                Gemstones are the most emotional way of storing wealth: nothing else of such high value
                 can be worn so close to the skin and thus touched by, or affect, every day.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Gemstones are <strong>easy to store</strong>, require no effort and no servicing.
+                Gemstones are easy to store, require no effort and no servicing.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                Gemstones have <strong>no metallic characteristics</strong> and are thus easy to hide.
+                Gemstones have no metallic characteristics and are thus easy to hide.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                <strong>Low correlation</strong> with other investment classes.
+                Low correlation with other investment classes.
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#2c3e7b]">▸</span>
-                <strong>Beauty of the stone</strong>.
+                Beauty of the stone.
               </li>
             </ul>
           </div>
@@ -106,29 +106,29 @@ export default function InvestmentPage() {
                 <ul className="space-y-2 text-sm text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We have access to <strong>coloured gemstones, coloured diamonds, and white diamonds of the very
-                    highest quality</strong>.
+                    We have access to coloured gemstones, coloured diamonds, and white diamonds of the very
+                    highest quality.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We specialise in <strong>naturally coloured, untreated gemstones</strong>. Purchasing directly in
+                    We specialise in naturally coloured, untreated gemstones. Purchasing directly in
                     the source countries without middlemen allows attractive prices for our clients.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We <strong>certify</strong> our goods to the highest standard worldwide.
+                    We certify our goods to the highest standard worldwide.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We have <strong>30 years</strong> of market experience.
+                    We have 30 years of market experience.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We carry out exclusive, <strong>discreet</strong> searches for gemstones of every type.
+                    We carry out exclusive, discreet searches for gemstones of every type.
                   </li>
                 </ul>
                 <Image
-                  src="https://thenaturalgem.com/wp-content/uploads/2024/02/jollyschwarz-6461_1x1_800.jpg?id=51407"
+                  src="https://spr-next.vercel.app/images/2.jpeg"
                   alt="Gemstone Inspection"
                   width={400}
                   height={300}
@@ -146,17 +146,17 @@ export default function InvestmentPage() {
               <ul className="space-y-2 text-sm text-gray-600 max-w-2xl">
                 <li className="flex items-start gap-2">
                   <span className="text-[#2c3e7b]">▸</span>
-                  Investing in gemstones offers you a <strong>discreet way</strong> to diversify your portfolio without
+                  Investing in gemstones offers you a discreet way to diversify your portfolio without
                   having to disclose details.
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-[#2c3e7b]">▸</span>
-                  Don't know where to store your treasures? We offer you <strong>anonymous and secure</strong> storage
+                  Don't know where to store your treasures? We offer you anonymous and secure storage
                   in secure deposits.
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-[#2c3e7b]">▸</span>
-                  Learn more about your investment in gemstones at <strong>exclusive events</strong> in a select
+                  Learn more about your investment in gemstones at exclusive events in a select
                   setting. Enjoy exquisite wines and good company with sparkling conversations.
                 </li>
               </ul>
@@ -194,7 +194,7 @@ export default function InvestmentPage() {
                   </li>
                 </ul>
                 <Image
-                  src="https://thenaturalgem.com/wp-content/uploads/2024/02/jollyschwarz-6293_1x1_800.jpg?id=51403"
+                  src="https://spr-next.vercel.app/images/5.jpeg"
                   alt="Team consultation"
                   width={400}
                   height={300}
@@ -247,10 +247,10 @@ export default function InvestmentPage() {
             </div>
 
             <p className="text-sm text-gray-600 mb-4">
-              Rubies from Burma have <strong>increased in value ten-fold</strong> in 27 years,
+              Rubies from Burma have increased in value ten-fold in 27 years,
             </p>
             <p className="text-sm text-gray-600 mb-8">
-              while <strong>sapphires from Burma</strong> have <strong>increased almost eight-fold</strong>.
+              while sapphires from Burma have increased almost eight-fold.
             </p>
 
             {/* Second Chart */}
@@ -297,17 +297,17 @@ export default function InvestmentPage() {
                 <h3 className="text-sm font-semibold text-[#1a1a1a] mb-4">SPR Gems:</h3>
                 <ul className="space-y-2 text-sm text-gray-600">
                   <li>
-                    • suggests a <strong>suitable portfolio</strong>
+                    • suggests a suitable portfolio
                   </li>
                   <li>
-                    • After complete <strong>payment, delivery</strong> is made to the relevant address.
+                    • After complete payment, delivery is made to the relevant address.
                   </li>
                   <li>
                     • From a planned investment of USD 50,000 upwards, SPR Gems offers{" "}
-                    <strong>individual consultation</strong> in your own home.
+                    individual consultation in your own home.
                   </li>
                   <li>
-                    • On request, <strong>jewellery</strong> will be made to your specification.
+                    • On request, jewellery will be made to your specification.
                   </li>
                 </ul>
               </div>
