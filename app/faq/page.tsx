@@ -66,7 +66,7 @@ const faqContent = [
   {
     question: "Why do gemstones hold their value?",
     answer:
-      "Gemstones have been highly sought after for over 5000 years and every dynasty has possessed collections of jewellery and/or gemstones. Some examples of this can be seen in the Kremlin, The Tower of London and the Imperial Treasury, in Vienna. Good gemstones have always been in demand and this demand will remain in the future. In times of war and crisis gemstones have always been considered a safe-haven currency.",
+      "Gemstones have been highly sought after for over 5000 years and every dynasty has possessed collections of jewellery and/or gemstones. Some examples of this can be seen in the Kremlin, The Tower of London and the Imperial Treasury. Good gemstones have always been in demand and this demand will remain in the future. In times of war and crisis gemstones have always been considered a safe-haven currency.",
   },
 ]
 

@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "Buy Investment Grade Gemstones Online | SPR Gems",
   description:
     "SPR Gems is the specialist for investments in gemstones. Based in Sri Lanka with access to the finest natural, untreated gemstones.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
