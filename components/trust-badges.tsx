@@ -1,6 +1,5 @@
 export function TrustBadges() {
   const badges = [
-    { name: "SSEF", text: "SSEF" },
     { name: "GÜBELIN", text: "GÜBELIN" },
     { name: "GRS", text: "▶ GRS" },
     { name: "GIA", text: "GIA" },
