@@ -24,7 +24,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`font-sans antialiased`}>
         <NextTopLoader
-          color="#2563eb"
+          color="#33325A"
           initialPosition={0.08}
           crawlSpeed={200}
           height={3}

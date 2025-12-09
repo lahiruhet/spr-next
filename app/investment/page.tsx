@@ -106,8 +106,8 @@ export default function InvestmentPage() {
                 <ul className="space-y-2 text-sm text-gray-600">
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
-                    We have access to <strong>gemstones</strong> coloured gemstones, coloured diamonds, white diamonds
-                    of the <strong>very highest quality</strong>.
+                    We have access to <strong>coloured gemstones, coloured diamonds, and white diamonds of the very
+                    highest quality</strong>.
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-[#2c3e7b]">▸</span>
